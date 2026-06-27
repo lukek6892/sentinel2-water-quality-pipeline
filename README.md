@@ -58,4 +58,4 @@ Outputs
 
 Author
 
-Luke Kennedy | MSc GIS & Remote Sensing, UCDPortfolio: github.com/YOUR_USERNAME
+Luke Kennedy | MSc GIS & Remote Sensing, UCDPortfolio: github.com/lukek6892

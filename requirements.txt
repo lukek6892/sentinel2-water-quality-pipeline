@@ -1,1 +1,18 @@
+numpy
+pandas
+rasterio
+geopandas
+shapely
+pyproj
+rasterstats
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+python-dotenv
+pystac-client
+planetary-computer
+fpdf2
+jinja2
 

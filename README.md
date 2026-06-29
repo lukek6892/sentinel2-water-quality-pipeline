@@ -39,9 +39,8 @@ targeting Australian environmental consulting and mining sectors. It complements
 demonstrating local Python tooling and pipeline automation.
 
 ## Requirements
-See `environment.yml` for full dependencies. Requires a free
-[Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) account
-for authenticated STAC access.
+See `environment.yml` for full dependencies. No account or API key required —
+data access is handled automatically via the Planetary Computer public STAC API.
 
 ## Usage
 ```bash

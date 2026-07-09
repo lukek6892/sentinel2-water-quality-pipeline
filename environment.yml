@@ -1,25 +1,24 @@
-```yaml
 name: water-quality-pipeline
 channels:
-- conda-forge
-- defaults
+  - conda-forge
+  - defaults
 dependencies:
-- python=3.11
-- numpy
-- pandas
-- rasterio
-- geopandas
-- shapely
-- pyproj
-- rasterstats
-- matplotlib
-- seaborn
-- jupyter
-- notebook
-- ipykernel
-- pip
-- pip:
-- pystac-client
-- planetary-computer
-- fpdf2
-- jinja2
+  - python=3.11
+  - numpy
+  - pandas
+  - rasterio
+  - geopandas
+  - shapely
+  - pyproj
+  - rasterstats
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+    - pystac-client
+    - planetary-computer
+    - fpdf2
+    - jinja2
